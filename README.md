@@ -2,7 +2,7 @@
 
 ## Lista de conteúdos:
 ***
-- [] Introdução
+- [ ] Introdução
 - [] Variáveis de classe
 - [] Herança
 - [] Herança multipla
