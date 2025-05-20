@@ -2,20 +2,20 @@
 
 ## Lista de conteúdos:
 ***
-- [ ] Introdução
-- [] Variáveis de classe
-- [] Herança
-- [] Herança multipla
-- [] Classes abstratas
-- [] super()
-- [] Polimorfismo
-- [] Duck typing
-- [] Agregação
-- [] Composição
-- [] Classes aninhadas
-- [] Métodos estáticos
-- [] Métodos da classe
-- [] Métodos mágicos
-- [] Decorador `@property`
+- Introdução
+- Variáveis de classe
+- Herança
+- Herança multipla
+- Classes abstratas
+- super()
+- Polimorfismo
+- Duck typing
+- Agregação
+- Composição
+- Classes aninhadas
+- Métodos estáticos
+- Métodos da classe
+- Métodos mágicos
+- Decorador `@property`
 
 
